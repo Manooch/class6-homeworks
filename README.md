@@ -71,3 +71,6 @@ call std()
 2- Copy BCWisconsin.csv into a path (You can copy everywhere on your computer).
 3- Run generic_parser.py from 'Gitbash', 'Conda' or 'VS Code' (you need to put the csv file name and also the path in case that the file is not on the same path as python file.
 4- when the script is run, the visualized files (png) will be created at the same directory as your python file.
+
+https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
+
